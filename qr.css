@@ -8,18 +8,12 @@
 
 /*BODY (Light blue background)*/
 body {
-    background-color: hsl(212, 45%, 89%);
-    background-image: url("./images/favicon-32x32.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     min-height: 90vh;
 }
 
 /*MAIN CONTAINER (middle)*/
 .mainContainer {
-    height: 85vh;
-    margin: 60px 40px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
