@@ -18,12 +18,12 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(212, 45%, 89%);
-    padding: 20px; /* for mobile */
+    padding: 10px; /* for mobile */
 }
 
 /*OUTER WRAPPER*/
 .container {
-    height: 50vh;
+    height: 100vh;
     max-width: 300px;
     display: flex;
     justify-content: center;
